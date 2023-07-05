@@ -3731,10 +3731,10 @@
     semver "^7.3.2"
     tsutils "^3.17.1"
 
-"@uniswap/token-lists@^1.0.0-beta.31":
-  version "1.0.0-beta.31"
-  resolved "https://registry.yarnpkg.com/@uniswap/token-lists/-/token-lists-1.0.0-beta.31.tgz#ff3852bd505ec7b4c276625c762ea79a93a919ec"
-  integrity sha512-BQVoelKCRf64IToPEs1wxiXOnhr/ukwPOF78XG11PrTAOL4F8umjYKFb8ZPv1/dIJsPaC7GhLSriEqyp94SasQ==
+"@uniswap/token-lists@^1.0.0-beta.32":
+  version "1.0.0-beta.32"
+  resolved "https://registry.yarnpkg.com/@uniswap/token-lists/-/token-lists-1.0.0-beta.32.tgz#d3438a93fffd550f22c6878115e66fa8966d5590"
+  integrity sha512-j1kkLZ7qeICEANHVAVmtMmpHdYJO13ZbTpFXev1KLa1/UCEPJqDoJVlXUUyeA05GjrmfVMjLNnjjEXq7JquMJw==
 
 "@urql/core@^1.11.0":
   version "1.11.8"
